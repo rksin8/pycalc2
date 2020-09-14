@@ -1,1 +1,2 @@
-# This is a python-calculator.
+
+## this is a command mode python calculator
